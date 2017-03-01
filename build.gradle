@@ -32,10 +32,10 @@ dependencies {
 
 //添加
 publish {
-    userOrg = 'mivvdo'//bintray.com用户名
-    groupId = 'com.do_demo'//jcenter上的路径
+    userOrg = 'jmic134'//bintray.com用户名
+    groupId = 'com.do_demo.remindView'//jcenter上的路径
     artifactId = 'remindView'//项目名称
-    publishVersion = '1.0.0'//版本号
+    publishVersion = '1.0.1'//版本号
     desc = 'a android view'//描述，不重要
     website = 'https://github.com/jmic134/remindView'//网站，不重要；尽量模拟github上的地址，例如我这样的；当然你有地址最好了
 }
