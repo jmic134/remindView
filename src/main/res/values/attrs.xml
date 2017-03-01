@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 小红点 -->
+    <declare-styleable name="RemindButtonView">
+        <attr name="remind_icon_res" format="reference" />
+        <attr name="remind_type_big_bg" format="reference"/>
+        <attr name="remind_type_small_bg" format="reference"/>
+        <attr name="remind_num_max" format="integer"/>
+        <attr name="remind_num_size" format="dimension"/>
+        <attr name="remind_type">
+
+            <enum name="big" value="0" />
+            <enum name="small" value="1" />
+        </attr>
+
+
+    </declare-styleable>
+</resources>
