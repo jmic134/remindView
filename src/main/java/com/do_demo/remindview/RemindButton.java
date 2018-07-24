@@ -14,7 +14,6 @@ import android.widget.TextView;
 /***
  * 带数字的按钮
  *
- * @author 姜永健
  * @date 2015年12月3日
  */
 public class RemindButton extends RelativeLayout {
